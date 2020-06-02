@@ -18,3 +18,6 @@ At the end of each year, Spotify compiles a playlist of the songs streamed most 
 Look for patterns in the audio features of the songs. Why do people stream these songs the most?
 Try to predict one audio feature based on the others
 See which features correlate the most
+
+## Spotify Map 
+![Spotify Top 50 Playlist by Country](https://github.com/Sguthrie123/Spotify-2018/blob/master/images/spotify%20map.png)

@@ -20,4 +20,5 @@ Try to predict one audio feature based on the others
 See which features correlate the most
 
 ## Spotify Map 
+AAdded Every Country that spotify is available in and added a hyper link to each marker. 
 ![Spotify Top 50 Playlist by Country](https://github.com/Sguthrie123/Spotify-2018/blob/master/images/spotify%20map.png)
